@@ -1,0 +1,13 @@
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\bin\Debug\IQIYI.PlayList.exe.config
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\bin\Debug\IQIYI.PlayList.exe
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\bin\Debug\IQIYI.PlayList.pdb
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.Form1.resources
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.Properties.Resources.resources
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.csproj.GenerateResource.cache
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.csproj.CoreCompileInputs.cache
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.exe
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.pdb
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\bin\Debug\Newtonsoft.Json.dll
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\bin\Debug\Newtonsoft.Json.xml
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.csproj.CopyComplete
+C:\Users\18479\Source\Repos\IQIYI.PlayList\IQIYI.PlayList\obj\Debug\IQIYI.PlayList.csprojAssemblyReference.cache
